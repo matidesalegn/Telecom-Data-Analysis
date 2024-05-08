@@ -6,15 +6,15 @@ This project analyzes telecom data using Python and various data analysis librar
 
 1. Clone the repository:
 
-    ```bash
-    git clone https://github.com/your_username/telecom-data-analysis.git
-    ```
+   ```bash
+   git clone https://github.com/your_username/telecom-data-analysis.git
+   ```
 
 2. Install the required packages:
 
-    ```bash
-    pip install -r requirements.txt
-    ```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 3. Set up your PostgreSQL database and update the connection details in `connection.py`.
 
@@ -22,9 +22,9 @@ This project analyzes telecom data using Python and various data analysis librar
 
 1. Run the `analysis.py` script to perform data analysis and generate insights.
 
-    ```bash
-    python analysis.py
-    ```
+   ```bash
+   python analysis.py
+   ```
 
 2. View the generated plots and analysis results.
 
